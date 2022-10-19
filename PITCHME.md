@@ -99,6 +99,20 @@ Minimum Viable Product
 
 Vision → Epics → User Stories → Increment
 
+<!-- vision: gemeinsame produktvision / gemeinsames ziel -->
+<!-- epic: grobe idee eines features -->
+<!-- story: customer journey -->
+<!-- increment: auslieferbares ding -->
+
+---
+
+### Definition of Ready
+###    
+### Definition of Done
+
+<!-- Ready to work on -->
+<!-- Ready to deliver -->
+
 ---
 
 ![bg h:80%](assets/scrum-framework.jpg)
@@ -110,10 +124,15 @@ Vision → Epics → User Stories → Increment
 ![bg h:80%](assets/ScrumValues-1000.png)
 
 <!-- team muss werte teilen -->
+<!-- nicht zu großes team, nicht zu klein -->
+<!-- enabled -->
+<!-- cross functional -->
 
 <!-- https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage -->
 
 ---
+
+## Conway's Law
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
 *— Melvin E. Conway*
