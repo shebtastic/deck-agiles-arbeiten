@@ -1,75 +1,119 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Agiles Arbeiten
 theme: uncover
 paginate: true
-_paginate: false
 ---
 
-![bg](./assets/gradient.jpg)
+<!-- _paginate: false -->
 
-# <!--fit--> Marp CLI example
+# Agile
+### [/ˈæd͡ʒ.aɪl/]
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #eee; }</style>
+Arbeitsweise für moderne Softwareentwicklung
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+### Warum eigentlich Agile?
+
+<!-- wer hat schonmal was gehört? -->
+<!-- klassische projekte/methoden -->
+<!-- vorstellbare probleme? -->
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+![bg w:100%](./assets/project-resolution.png)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+<!-- CHAOS report von standish group -->
+<!-- 5 jahre mit insgesamt >25k projekten -->
+<!-- https://standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf -->
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+![bg 40%](./assets/on-budget.png)
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+<!-- weder on budget -->
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+![bg 40%](./assets/on-time.png)
 
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+<!-- noch on time -->
 
 ---
 
-### <!--fit--> :ok_hand:
+![bg 40%](./assets/on-target.png)
+
+<!-- oder zum richtigen thema -->
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+## Ist die Arbeit wertvoll?
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+Geplant !== Gebraucht
 
-https://github.com/yhatt/marp-cli-example
+<!-- oft echt ungleich -->
+<!-- klassisch langer vorlauf -->
+<!-- projekt umfasst das ganze produkt mit allen features -->
+
+---
+
+![bg h:100%](./assets/project-size.png)
+
+---
+
+## Agiles Manifest
+
+https://agilemanifesto.org
+
+<!-- relevante branchenleute -->
+<!-- 2001 -->
+
+---
+
+### Lasten- und Pflichtenhefte
+
+<!-- last: komplette feature anforderung -->
+<!-- pflicht: detailliertes angebot der umsetzung -->
+<!-- statisch / wasserfall -->
+
+---
+
+# MVP
+Minimum Viable Product
+
+<!-- früh am markt, ausprobieren, evaluieren. -->
+<!-- man hat vermutungen *assumptions* getroffen -->
+<!-- können zutreffen, müssen aber nicht -->
+<!-- time and material -->
+
+---
+
+![bg w:90%](./assets/3pillarsofempiricism.png)
+
+<!-- https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
+ -->
+---
+
+Vision → Epics → User Stories → Increment
+
+---
+
+![bg h:80%](assets/scrum-framework.jpg)
+
+<!-- https://jimchristie.me/blog/scrum-graphic/ -->
+
+---
+
+![bg h:80%](assets/ScrumValues-1000.png)
+
+<!-- team muss werte teilen -->
+
+<!-- https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage -->
+
+---
+
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+*— Melvin E. Conway*
