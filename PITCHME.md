@@ -8,6 +8,7 @@ paginate: true
 <!-- _paginate: false -->
 
 # Agile
+
 ### [/ˈæd͡ʒ.aɪl/]
 
 Arbeitsweise für moderne Softwareentwicklung
@@ -82,6 +83,7 @@ https://agilemanifesto.org
 ---
 
 # MVP
+
 Minimum Viable Product
 
 <!-- früh am markt, ausprobieren, evaluieren. -->
@@ -95,6 +97,29 @@ Minimum Viable Product
 
 <!-- https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
  -->
+
+---
+
+### MVP - Focus
+
+- Reduce complexity
+- What is important?
+
+---
+
+### MVP - Validation
+
+- First iteration of the app idea
+- Quick feedback
+
+---
+
+### MVP - Completeness
+
+- The app is now usable and _could be final_
+- No additional work prepared
+- No placeholders or dangling features
+
 ---
 
 Vision → Epics → User Stories → Increment
@@ -106,8 +131,78 @@ Vision → Epics → User Stories → Increment
 
 ---
 
+### User Stories
+
+- User Stories are for everyone
+- Focus on user needs
+- Takes on user perspective
+- Should never be 'because we can'
+
+---
+
+### User Story - Structure
+
+- Value Proposition
+- Description
+- Acceptance Criteria
+- Tasks
+- Complexity
+
+<!-- team decides on look -->
+
+---
+
+### User Story - Value Proposition
+
+**As a** ...  
+**I want to** ...  
+**so that** ...
+
+<!-- should be non technical -->
+<!-- role is persona -->
+<!-- goal to achieve -->
+<!-- way to achieve goal -->
+
+---
+
+### User Story - Description
+
+- Visual or structured Description
+- Wireframes
+
+<!-- mix of business and technical description -->
+
+---
+
+### User Story - Acceptance Criteria
+
+- What needs to be finished
+- How does the feature work exactly
+- Quality gates
+
+---
+
+### User Story - Tasks
+
+- The todos that were identified by the team
+- Can be as technical and detailed as needed
+
+<!-- is usually empty -->
+
+---
+
+### User Story - Complexity
+
+- Relative estimation of work _complexity_
+- is only comparable within a team
+- changes with experience and team constellation
+
+---
+
 ### Definition of Ready
-###    
+
+###
+
 ### Definition of Done
 
 <!-- Ready to work on -->
@@ -135,4 +230,4 @@ Vision → Epics → User Stories → Increment
 ## Conway's Law
 
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
-*— Melvin E. Conway*
+> _— Melvin E. Conway_
